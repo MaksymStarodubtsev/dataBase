@@ -1,5 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "lowdb is awesome" }
-  ]
+	"userId": 1,
+	"id": 1,
+	"title": "delectus aut autem",
+	"completed": false
 }
